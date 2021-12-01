@@ -1,7 +1,8 @@
 .header-section{
     width: 100%;
-    height: 550px;
+    height: 576px;
     background-color: #F0FFF0;
+    margin-bottom: 50px;
 }
 .container{
     margin-bottom: 70px;
